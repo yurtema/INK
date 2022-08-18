@@ -1,0 +1,5 @@
+/.idea
+model.pt
+__pycache__
+phrases/
+phrases.txt
