@@ -3,3 +3,4 @@ model.pt
 __pycache__
 *.wav
 phrases.txt
+test.py
